@@ -4,16 +4,16 @@ By using BlueSky, you agree to the practices described in this policy.
 
 ### 1. Information We Collect
 We collect the following types of information:
-a. Personal Information
-    • Name, email address, phone number, and billing information.
-    • Identification details like government-issued ID (if required for verification).
-b. Transaction Information
-    • Payment details, transaction history, and account balances.
-c. Device and Usage Information
-    • Device type, operating system, IP address, and app usage patterns.
-    • Location data (if enabled).
-d. Cookies and Tracking Technologies
-    • Cookies, beacons, and similar technologies for app functionality and analytics.
+    * Personal Information
+        • Name, email address, phone number, and billing information.
+        • Identification details like government-issued ID (if required for verification).
+    * Transaction Information
+        • Payment details, transaction history, and account balances.
+    * Device and Usage Information
+        • Device type, operating system, IP address, and app usage patterns.
+        • Location data (if enabled).
+    * Cookies and Tracking Technologies
+        • Cookies, beacons, and similar technologies for app functionality and analytics.
 ### 2. How We Use Your Information
 We use your information to:
     • Facilitate payments and provide services.
